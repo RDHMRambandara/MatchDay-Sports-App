@@ -1,4 +1,4 @@
-⚽ MatchDay - Your Ultimate FootBall Companion
+⚽ MatchDay - Your Ultimate FOOTBALL(Soccer) Companion
 
 !\[React Native](https://img.shields.io/badge/React\_Native-0.76.5-blue)
 
